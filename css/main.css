@@ -1,0 +1,111 @@
+body {
+	margin: 0;
+}
+
+.nav {
+	background-color: #FE7E00;
+	height: 44px;
+	width: 502px;
+}
+
+h3 {
+	color: white;
+	font-size: 12px;
+	padding: 5px 35px;
+	float: left;
+}
+
+.nav img{
+	padding: 12px;
+}
+
+ul {
+	padding: 13px 0;
+	margin: 0;
+}
+
+.nav ul li {
+	display: inline;
+	text-decoration: none;
+	font-size: 8px;
+	padding-left: 30px;
+	color: white;
+}
+
+.header {
+	background-color: #F7F7F7;
+	height: 248px;
+	width: 502px;
+	margin: 0px;
+}
+
+input {
+	float: right;
+	margin: 3px;
+	margin-right: 20px;
+	background-color: #F1F1F1;
+	height: 25px;
+	width: 115px;
+	border: none;
+	font-size: 7px;
+	padding-left: 10px;
+	border-radius: 2px;
+}
+
+img {
+	margin: 0;
+	padding: 40px 20px 0 0;
+	float: left;
+}
+
+p {
+	margin: 0;
+}
+
+p img {
+	padding: 60px 0 0 0;
+}
+
+.paragraph {
+	color: #FFAD67;
+	font-size: 15px;
+	font-weight: lighter;
+	padding-top: 65px;
+	line-height: 25px;
+}
+
+.paragraph span {
+	color: #A0D9D0;
+}
+
+.button button{
+	float: left;
+	height: 25px;
+	width: 110px;
+	background-color: #FF7E00;
+	color: white;
+	border: none;
+	margin: 15px 0 0 0;
+	border-radius: 2px;
+	font-size: 7px;
+	padding-top: 4px;
+}
+
+.buttons button {
+	float: right;
+	height: 25px;
+	width: 110px;
+	background-color: #78CDC8;
+	color: white;
+	border: none;
+	margin: 15px 25px 0 0;
+	border-radius: 2px;
+	font-size: 7px;
+	padding-top: 4px;
+}
+
+footer {
+	background-color: #78CDC8;
+	height: 42px;
+	width: 502px;
+}
